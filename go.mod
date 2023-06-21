@@ -1,4 +1,4 @@
-module github.com/caddyserver/certmagic
+module github.com/sunbird1015/certmagic
 
 go 1.19
 
